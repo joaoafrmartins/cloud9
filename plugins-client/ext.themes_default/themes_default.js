@@ -37,6 +37,7 @@ module.exports = ext.register("ext/themes_default/themes_default", {
                       ],
         "Mono Industrial" : "ace/theme/mono_industrial",
         "Monokai" : "ace/theme/monokai",
+        "MonoCoffee" : "ace/theme/monocoffee",
         "Pastel On Dark" : "ace/theme/pastel_on_dark",
         "Solarized" : [
                         {"Solarized Dark" : "ace/theme/solarized_dark"},
